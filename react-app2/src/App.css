@@ -1,0 +1,57 @@
+
+ body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+h1 {
+  color: lightblack;
+}
+
+form {
+  margin: 4px;
+}
+
+.container {
+  padding: 16px;
+}
+h2 {
+  font-size: 19px;
+}
+
+table {
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border: 1px solid #aca899;
+  width: 100%;
+}
+
+td {  
+  padding: 15px;
+  text-align: left;
+  vertical-align:top;
+  border: 1px solid #aca899;
+  height: 30px;
+
+}
+
+textarea {
+  width: 100%;
+  overflow: auto;
+}
+
+th {
+  padding: 15px;
+  font-weight: normal;
+  text-align: left;
+  height: 30px;
+  border: 1px solid #030300;
+  background-color: lightgrey;
+}
+
+button{
+  background-color: lightgrey;float: left;
+}
+
+.error {
+  color: #771111;
+}
